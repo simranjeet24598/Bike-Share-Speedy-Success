@@ -4,14 +4,17 @@ This is a case study from Google Data Analytics Course.In this project I have an
 The data set used for this case study has been made available by Motivate International Inc. under this 
 [license](https://ride.divvybikes.com/data-license-agreement)
 
-![Cyclist-Bike-Share](Bike-Share-Speedy-Success/logo.png)
-## Tools that is used for this case study
+<p align="center">
+<img src="https://github.com/simranjeet24598/Bike-Share-Speedy-Success/blob/main/logo.png" width="330" height="300" valign="center">
+</p>
+
+## Tools used for this case study
 1. [R](https://www.kaggle.com/code/simrankaur21/case-study-how-does-a-bike-share-navigate-speedy)
 
 ## The project files contains
-1. Code file written in R - [here](Bike-Share-Speedy-Success/code.ipynb)
-2. Word file- consists of the data analysis steps performed - [here](Bike-Share-Speedy-Success/log.docx)
-3. PDF- demonstration of the results - [here](Bike-Share-Speedy-Success/results.pdf)
+1. Code file written in R - [here](https://github.com/simranjeet24598/Bike-Share-Speedy-Success/blob/main/code.ipynb)
+2. Word file- consists of the data analysis steps performed - [here](https://github.com/simranjeet24598/Bike-Share-Speedy-Success/blob/main/log.docx)
+3. PDF- demonstration of the results - [here](https://github.com/simranjeet24598/Bike-Share-Speedy-Success/blob/main/results.pdf)
 
 ## Who,When,Why?
 **Author**: Simranjeet Kaur<br>
