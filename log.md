@@ -31,13 +31,13 @@ The aim of this project is to help us identify how casual riders and annual memb
 
 
 
-**Description of all data sources used:
+**Description of all data sources used:**
 
 The data is divided into 4 quarters for the year 2019. The data sources used are in the form of CSVs namely:
-Divvy_Trips_2019_Q1.csv
-Divvy_Trips_2019_Q2.csv
-Divvy_Trips_2019_Q3.csv
-Divvy_Trips_2019_Q4.csv
+1. Divvy_Trips_2019_Q1.csv
+2. Divvy_Trips_2019_Q2.csv
+3. Divvy_Trips_2019_Q3.csv
+4. Divvy_Trips_2019_Q4.csv
 
 
 # Process
@@ -59,12 +59,14 @@ Divvy_Trips_2019_Q4.csv
 
 **Summary**:
 
-|   |Customer   |  |   |Subscriber  |   |   |
+|   |   |Customer  |   |  | Subscriber  |   |
 |---|---|---|---|---|---|---|
 |  | Count   |Mean Age   |Mean Ride Duration   |Count    |Mean Age   |Mean Ride Duration   |
 | Female  |131425   | 30.1  |3157.7   |726428   | 34.1  |965.2   |
 | Male  | 212714  | 31.5  | 2691.1  |2187036   |35.8  | 821.8  |
 | Total  | 344139  | 30.9  | 2869.3  |2913464   |35.4   | 857.5  |
+
+
 
 **Observations:**
 
