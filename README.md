@@ -12,9 +12,9 @@ The data set used for this case study has been made available by Motivate Intern
 1. [R](https://www.kaggle.com/code/simrankaur21/case-study-how-does-a-bike-share-navigate-speedy)
 
 ## The project files contains
-1. Code file written in R - [here](https://github.com/simranjeet24598/Bike-Share-Speedy-Success/blob/main/code.ipynb)
-2. Word file- consists of the data analysis steps performed - [here](https://github.com/simranjeet24598/Bike-Share-Speedy-Success/blob/main/log.docx)
-3. PDF- demonstration of the results - [here](https://github.com/simranjeet24598/Bike-Share-Speedy-Success/blob/main/results.pdf)
+1. code file written in R - [here](https://github.com/simranjeet24598/Bike-Share-Speedy-Success/blob/main/code.ipynb)
+2. log file- consists of the data analysis steps performed - [here](https://github.com/simranjeet24598/Bike-Share-Speedy-Success/blob/main/log.docx)
+3. results- demonstration of the results - [here](https://github.com/simranjeet24598/Bike-Share-Speedy-Success/blob/main/results.pdf)
 
 ## Who,When,Why?
 **Author**: Simranjeet Kaur<br>
